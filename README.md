@@ -8,7 +8,7 @@
 # on GNU Linux cmd : 
 ```bash
 > pyton -m venv .venv
-> source venv\bin\activate
+> source .venv\bin\activate
 ```
 #3# Install the requirements :
 ```bash
@@ -17,7 +17,7 @@
 #4# Run project
 # On this repository cmd: 
 ```bash
-> pyton api.py
+> python api.py
 ```
 ### Available end-points:
 http://127.0.0.1:8080/api/
