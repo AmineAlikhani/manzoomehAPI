@@ -1,3 +1,2 @@
-fastapi "uvicorn[standard]"
-django
-pydantic
+aiohttp==3.8.1
+bclib==3.9.1
