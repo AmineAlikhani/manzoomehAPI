@@ -20,9 +20,13 @@
 > pyton api.py
 ```
 ### Available end-points:
-#http://127.0.0.1:8080/api/
-#http://127.0.0.1:8080/api/<int:product_id>
-#http://127.0.0.1:8080/api/delete/<int:product_id>
-#http://127.0.0.1:8080/api/add/<product_info>
-#http://127.0.0.1:8080/api/edit/<int:product_id>/<product_info>
+http://127.0.0.1:8080/api/
+
+http://127.0.0.1:8080/api/<int:product_id>
+
+http://127.0.0.1:8080/api/delete/<int:product_id>
+
+http://127.0.0.1:8080/api/add/<product_info>
+
+http://127.0.0.1:8080/api/edit/<int:product_id>/<product_info>
 
