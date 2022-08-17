@@ -8,7 +8,7 @@
 # on GNU Linux cmd : 
 ```bash
 > pyton -m venv .venv
-> source .venv\bin\activate
+> source .venv/bin/activate
 ```
 #3# Install the requirements :
 ```bash
