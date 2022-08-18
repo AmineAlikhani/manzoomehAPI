@@ -6,7 +6,7 @@
 ```bash
 > git clone https://github.com/AmineAlikhani/manzoomehAPI
 ```
-#2# Create a virtualenv and activate it:
+#2# Create a virtual environment and activate it:
 ### on GNU Linux cmd : 
 ```bash
 > pyton -m venv .venv
@@ -31,3 +31,4 @@ http://127.0.0.1:8080/api/delete/<int:product_id>
 http://127.0.0.1:8080/api/add/<product_info>
 
 http://127.0.0.1:8080/api/edit/<int:product_id>/<product_info>
+
