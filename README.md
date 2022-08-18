@@ -4,10 +4,10 @@
 ### How to run ?
 #1# Clone the repository :
 ```bash
-> git clone https://github.com/abolfazlj00/Manzoomeh-basis-core.git
+> git clone https://github.com/AmineAlikhani/manzoomehAPI
 ```
 #2# Create a virtualenv and activate it:
-# on GNU Linux cmd : 
+### on GNU Linux cmd : 
 ```bash
 > pyton -m venv .venv
 > source .venv/bin/activate
@@ -17,7 +17,7 @@
 > pip install -r requirements.txt
 ```
 #4# Run project
-# On this repository cmd: 
+### On this repository cmd: 
 ```bash
 > python api.py
 ```
