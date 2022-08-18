@@ -1,6 +1,6 @@
 ## This project is based on https://github.com/Manzoomeh/BasisCore.Server.Edge to create API end-points.
-# BasisCore contains many tools to ease your way around developing business.
-# I enjoyed using about 5 of those tools and the job is done. Couldn't be more simple. 
+ BasisCore contains many tools to ease your way around developing business.
+ I enjoyed using about 5 of those tools and the job is done. Couldn't be more simple. 
 ### How to run ?
 #1# Clone the repository :
 ```bash
